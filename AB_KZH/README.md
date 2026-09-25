@@ -1,5 +1,5 @@
 # Collation of _Aphra Behn_ (1849) and _Karl der Zweite und sein Hof_ (1859), two different editions of the same work by Luise Mühlbach
-**Sophie van den Elzen and Marie Léger-St-Jean, August 2026**
+**Marie Léger-St-Jean and Sophie van den Elzen, August 2026**
 
 ### Contents of the folder
 
