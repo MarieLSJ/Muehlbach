@@ -56,9 +56,9 @@ The work is divided into three numbered books, each with its own title.
 > **_Nota bene_:** Chapter IV of the third book spans two rows because it was split in two in the revised second edition.
 	
 ### _Karl der Zweite und sein Hof_ (1859)	
-`KdZ 1859 Printed number`	Book or chapter numbering printed in the revised second edition — followed by "(sic)" when it does not follow the sequential numbering of the chapters
+`KZH 1859 Printed number`	Book or chapter numbering printed in the revised second edition — followed by "(sic)" when it does not follow the sequential numbering of the chapters
 
-`KdZ 1859 Title`	Book or chapter title in the revised second edition
+`KZH 1859 Title`	Book or chapter title in the revised second edition
 
 > **_Nota bene_:** 	Chapter 3:2 indicates "[chapter cut]" in the revised second edition because it does not appear in it.
 
@@ -93,4 +93,4 @@ In the field names below, `*` represents `1`, `2-1`, `2-2`, `2-3`, or `3`, depen
 ## Our title translations
 `AB 1849 Title translation`	English-language translation of the book and chapter titles in the first edition
 
-`AB 1849 Title translation`	English-language translation of the book and chapter titles in the revised second edition
+`KZH 1859 Title translation`	English-language translation of the book and chapter titles in the revised second edition
