@@ -1,0 +1,49 @@
+Sequential book and chapter number,AB 1849 Printed number,AB 1849 Title,KZH 1859 Printed number,KZH 1859 Title,Diff,Filename,Abb*e1744 segment no for numbering,Abb*e1744 segment no for title,Abb*e958 segment no for numbering,Abb*e958 segment no for title,KZHb* segment no for numbering,KZHb* segment no for title,AB 1849 Title translation,KZH 1859 Title translation
+1,Erstes Buch.,Oroonoko.,Erstes Buch.,Oroonoko.,,vol_1,86,87,86,87,86,88,“First Book. Oroonoko.”,“First Book. Oroonoko.”
+1:1,I.,Der Schwur,I.,Der Schwur,,vol_1,93,100,96,100,99,100,The Oath,The Oath
+1:2,II.,Imoinda,II.,Sclavin und Herrin,x,vol_1,737,739,738,739,739,741,Imoinda,Slave and Mistress
+1:3,III.,Taminko,III.,Sclavenliebe,x,vol_1,1257,1263,1259,1263,1263,1264,Taminko,Slave Love
+1:4,IV.,Oroonoko,IV.,Der Sclavenkönig,x,vol_1,1675,1681,1673,1681,1684,1685,Oroonoko,The Slave King
+1:5,V.,Die Erzählung,V.,Verschwundenes Glück,x,vol_1,2274,2275,2273,2275,2275,2278,The Story,Lost Happiness
+1:6,VI.,Ein Schmerz,VI.,Eine Enttäuschung,x,vol_1,3169,3173,3172,3173,3172,3173,A Pain,A Disappointment
+1:7,VII.,Überwindung,VII.,Ein starkes Herz,x,vol_1,3989,3996,3991,3996,3996,3997,Overcoming,A Strong Heart
+1:8,VIII.,Das Vermächtniß,VIII.,Das Testament,x,vol_1,4929,4930,4929,4930,4929,4930,The Legacy,The Testament
+1:9,IX.,Der Aufstand,IX.,Die Empörung,x,vol_1,5613,5615,5614,5615,5615,5619,The Uprising,The Outrage / Rebellion
+1:10,X.,Die Sclaven,X.,Die vergebliche Warnung,x,vol_1,6583,6585,6584,6585,missing from OCR,6592,The Slaves,The Futile Warning
+1:11,XI.,Das Gericht,XI.,Die Hinrichtung,x,vol_1,7277,7279,7278,7279,7277,7279,The Court,The Execution
+1:12,XII.,Heimwärts!,XII.,Die Heimfahrt,x,vol_1,8500,8502,8501,8502,8500,8503,Homeward!,The Journey Home
+2,Zweites Buch.,Die Restauration.,Zweites Buch.,Die Restauration.,,vol_2_part_1,90,91,18,19,90,91,“Second Book. The Restoration.”,“Second Book. The Restoration.”
+2:1,I.,König Karl II,I.,König Karl II,,vol_2_part_1,103,105,104,105,94,105,King Charles II,King Charles II
+2:2,II.,König und Priester,II.,Verstellungskünste,x,vol_2_part_1,823,826,825,826,825,826,King and Priest,Art of Deception
+2:3,III.,Die Abgeordneten der Anglicanischen Kirche,III.,Die Abgeordneten der Anglicanischen Kirche,,vol_2_part_1,1640,1649,1641,1649,1648,1649,The Representatives of the Anglican Church,The Representatives of the Anglican Church
+2:4,IV.,Der wirkliche König von England,IV.,Der General Monk,x,vol_2_part_1,2700,2703,2702,2703,2698,2699,The True King of England,General Monk
+2:5,V.,Die wirkliche Königin des wirklichen Königs von England,V.,Die Generalin Monk,x,vol_2_part_1,3238,3239,3254,3255,3231,3232,The True Queen of the True King of England,Generaless Monk
+2:6,VI.,Die Bittsteller,VI.,Die Bittsteller,,vol_2_part_2,1,2,1,2,1,2,The Supplicants,The Supplicants
+2:7,VI. (sic),Ein König von Gottes Gnaden,VI. (sic),Der heimkehrende König,x,vol_2_part_2,910,912,911,912,908,909,A King by the Grace of God,The Returning King
+2:8,VII.,Aphra Behn,VII.,Aphra Behn,,vol_2_part_2,2131,2132,2131,2132,2131,2132,Aphra Behn,Aphra Behn
+2:9,VIII.,Der Frauenbund,VIII.,Die Jugendfreundinnen,x,vol_2_part_2,3378,3379,3378,3379,3379,3398,The Women’s Union,The Childhood Female Friends
+2:10,IX.,Die Einzug des Königs in London,IX.,Der Einzug des Königs in London,,vol_2_part_2,4643,4645,4639,4645,4641,4645,The King’s March into London,The King’s March into London
+2:11,X.,Lady Castlemaine,X.,Lady Castlemaine,,vol_2_part_3,1,2,1,2,missing from OCR,2,Lady Castlemaine,Lady Castlemaine
+2:12,XI.,Die erste Dichtung,XI.,Erinnerungspoesie,x,vol_2_part_3,722,724,723,724,722,724,The First Poem,Memory Poetry
+2:13,XIV. (sic),Das freie Weib,XIV. (sic),Armuth bezwingt,x,vol_2_part_3,1279,1284,1280,1284,1283,1284,The Free Woman,Poverty Conquers
+2:14,XV. (sic),Das Budget,XV. (sic),Das Budget,,vol_2_part_3,1584,1586,1585,1586,1583,1586,The Budget,The Budget
+2:15,XIV. (sic),Die Vorlesung,XIV. (sic),Die Vorlesung,,vol_2_part_3,2585,2594,2586,2594,2593,2594,The Lecture,The Lecture
+3,Drittes Buch.,Die Dichterin Aphra Behn.,Drittes Buch.,Die Dichterin Aphra Behn.,,vol_3,87,88,87,88,87,88,“Third Book. The Poet Aphra Behn.”,“Third Book. The Poet Aphra Behn.”
+3:1,I.,Eine Königsbraut,I.,Heirathspläne,x,vol_3,99,99,98,99,91,92,A King’s Bride,Wedding Plans
+3:2,II.,Das Duell,[chapter cut],[chapter cut],x,vol_3,856,858,857,858,,,The Duel,
+3:3,III.,Der Flüchtling,III. (sic),Der Flüchtling,,vol_3,1363,1365,1364,1365,1176,1365,The Fugitive,The Fugitive
+3:4,IV.,Die Camarilla,IV.,Lady Castlemaine,x,vol_3,1775,1777,1777,1777,1777,1778,The Camarilla / Cronies,Lady Castlemaine
+3:5,IV.,Die Camarilla,V.,Leben oder Tod,x,vol_3,1775,1777,1777,1777,2491,2492,The Camarilla / Cronies,Life or Death
+3:6,V.,Die Hinrichtung,VI.,Henry Vane,x,vol_3,3133,3134,3130,3134,3134,3135,The Execution,Henry Vane
+3:7,VI.,Der Warner,VI. (sic),Der Warner,,vol_3,3729,3731,3730,3731,3728,3731,The Monitor,The Monitor
+3:8,VII.,Die Vermählung,VII.,Die Königin,x,vol_3,4333,4334,4330,4334,4332,4334,The Marriage,The Queen
+3:9,VIII.,Schöne Träume,VIII.,Schöne Träume,,vol_3,5049,5050,5049,5051,5049,5050,Beautiful Dreams,Beautiful Dreams
+3:10,IX.,Der Verräther,IX.,Der Verräther,,vol_3,5576,5577,5567,5577,5575,5577,The Traitor,The Traitor
+3:11,X.,Der Staatsschatz,X.,Der Verkauf Dünkirchen’s,x,vol_3,6771,6785,missing from OCR,6785,6784,6785,The Treasury,The Sale of Dunkirk
+3:12,XI.,Die Enttäuschung,XI.,Die Enttäuschung,,vol_3,7152,7156,7153,7156,7155,7156,The Disillusionment,The Disillusionment
+3:13,XII.,Das Hoffest,XII.,Das Hoffest,,vol_3,7617,7621,7619,7621,7619,7621,The Court Feast,The Court Feast
+3:14,XIII.,Die Freundinnen,XIII.,Die Freundinnen,,vol_3,8357,8358,8357,8358,8357,8358,The Female Friends,The Female Friends
+3:15,XIV.,Die Gesandtin,XIV.,Die Gesandtin,,vol_3,9121,9126,9123,9126,9125,9126,The Female Envoy,The Female Envoy
+3:16,XV.,Die Trauung,XV.,Die Strafe des Verräthers,x,vol_3,9642,9644,9643,9644,9644,9646,The Wedding Ceremony,The Traitor’s Punishment
+3:17,XVI.,Das Nerofest,XVI.,Der Brand der Flotte,x,vol_3,10119,10121,10120,10121,10117,10118,Nero’s Feast,The Fleet on Fire
+3:18,XVII.,Schluß,XVII.,Schluß,,vol_3,10862,10863,10862,10863,10862,10863,Conclusion,Conclusion
