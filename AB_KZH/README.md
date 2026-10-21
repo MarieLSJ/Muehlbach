@@ -1,7 +1,7 @@
 # Collation of _Aphra Behn_ (1849) and _Karl der Zweite und sein Hof_ (1859), two different editions of the same work by Luise Mühlbach
-**Sophie van den Elzen and Marie Léger-St-Jean, August 2026**
+**Marie Léger-St-Jean and Sophie van den Elzen, August 2026**
 
-### Contents of the folder
+### Contents of the directory
 
 1. Table comparing the book and chapter titles and numbering
 	- [AB_KZH_chapter_titles_numbering.csv](AB_KZH_chapter_titles_numbering.csv)
@@ -54,80 +54,90 @@ In all, whereas in the 1849 first edition, the chapter titles gave some immediat
 
 **Collected and translated by Sophie van den Elzen and Marie Léger-St-Jean, August 2026**
 
-This table contains the book and chapter titles and their numbering in _Aphra Behn. Roman_ (Berlin: M. Simion, 1849) and _Karl der Zweite und sein Hof. Historischer Roman_ (Berlin: Otto Janke, 1859), two different editions of the same work by Luise Mühlbach. It also indicates where they differ, where to find them in the accompanying PDFs which contain the collations of each book, as well as our English-language translations of the chapter titles.	
+This table contains the book and chapter titles as well as their numbering in both _Aphra Behn. Roman_ (Berlin: M. Simion, 1849) and _Karl der Zweite und sein Hof. Historischer Roman_ (Berlin: Otto Janke, 1859), two different editions of the same work by Luise Mühlbach. It also indicates where they differ, where to find them in the accompanying PDFs which contain the collations of each book, as well as our English-language translations of the chapter titles.	
 	
 We produced this table as part of the book historical research supporting the following article:
 
 >Elzen, Sophie van den, and Marie Léger-St-Jean. February 2027. “Censorship and the Historical Novel: Revisiting and Revising 1848 in Luise Mühlbach’s Reworking of _Aphra Behn_.” _boundary 2: An International Journal of Literature and Culture_ 54 (1). [https://read.dukeupress.edu/boundary-2](https://read.dukeupress.edu/boundary-2).
 
-The following README page concerns the table in its comma-separated values (CSV) format contained [in this folder](AB_KZH_chapter_titles_numbering.csv). It is also available in a more human-readable format:
-- in an OpenDocument Spreadsheet (ODS) file (also available [in this folder](AB_KZH_chapter_titles_numbering.ods)); and
+The following README page concerns the table in its comma-separated values (CSV) format contained [in this directory](AB_KZH_chapter_titles_numbering.csv). It is also available in a more human-readable format:
+- in an OpenDocument Spreadsheet (ODS) file (also available [in this directory](AB_KZH_chapter_titles_numbering.ods)); and
 - on [Google Spreadsheets](https://docs.google.com/spreadsheets/d/1S_R2vY2z7t7ReUuWCmghHIfx7FJGSEwK2r0qoVfhync/edit?usp=sharing).
 
 Both these spreadsheets contain their own README tabs, slightly distinct from this one given the differences in formatting and thus names of columns.
 
 Below is a description of each column of the table in its CSV format. They are grouped into four categories, reflected to a certain extent in the formatting of the spreadsheets:
 
-1. [ID column](#id-column)
-2. [Book and chapter titles and numbering](#book-and-chapter-titles-and-numbering)
-3. [Collation PDFs](#collation-pdfs)
-4. [Our title translations](#our-title-translations)
+1. [ID column](#id-column) (1 col)
+2. [Book and chapter titles and numbering](#book-and-chapter-titles-and-numbering) (5 cols)
+3. [Collation PDFs](#collation-pdfs) (7 cols)
+4. [Our title translations](#our-title-translations) (2 cols)
 
 ### ID column
+The work is divided into three numbered books, each with its own title.
+
 The table requires sequential chapter numbers because, though in the first book they are identical to those printed in both editions, there are errors in the second book within chapter numbers printed in both editions. Moreover, in the third and last book of the revised second edition, one chapter is cut out, another is split in two, and there are further chapter numbering errors.
 
-`Sequential book and chapter number` Standardized sequential numbering of the books and the chapters they contain in the format `[b]`:`[c]`, in which `[b]` is the number of the book (1 to 3) and `[c]` is a sequential number for the chapter
+`Sequential_book_and_chapter_number` Standardized sequential numbering of the books and the chapters they contain in the format `[b]`:`[c]`, in which `[b]` is the number of the book (1 to 3) and `[c]` is a sequential number for the chapter
 	
 ### Book and chapter titles and numbering
-The work is divided into three numbered books, each with its own title.
+The next five columns relate to the title and numbering of each of the books and chapters in each of the two editions and whether these titles differ from one another.
 
 #### _Aphra Behn_ (1849)
 
-`AB 1849 Printed number` Book or chapter numbering printed in the first edition — followed by "(sic)" when it does not follow the sequential numbering of the chapters
+`AB_1849_Printed_number` Book or chapter numbering printed in the first edition — followed by "(sic)" when it does not follow the sequential numbering of the chapters
 
-`AB 1849 Title` Book or chapter title in the first edition
+`AB_1849_Title` Book or chapter title in the first edition
 	
 > [!WARNING]
 > The data in these two columns is identical for rows 3:4 and 3:5 because chapter IV in the first edition's third book was split in two in the revised second edition.
 	
 #### _Karl der Zweite und sein Hof_ (1859)	
-`KZH 1859 Printed number`	Book or chapter numbering printed in the revised second edition — followed by "(sic)" when it does not follow the sequential numbering of the chapters
+`KZH_1859_Printed_number`	Book or chapter numbering printed in the revised second edition — followed by "(sic)" when it does not follow the sequential numbering of the chapters
 
-`KZH 1859 Title`	Book or chapter title in the revised second edition
+`KZH_1859_Title`	Book or chapter title in the revised second edition
 
 > [!WARNING]
-> These two columns indicate "[chapter cut]" at row 3:2 because chapter II in the first edition's third book does not appear in the revised second edition.
+> These two columns indicate "[chapter cut]" at row 3:2 because chapter II in the first edition's third book was deleted in the revised second edition.
 
 #### Differences
-`Diff`  Contains an "x" if the chapter titles are different in the two editions and is left empty if they are identical
+`Diff`  Contains an "x" if the chapter titles are different in each edition and is left empty if they are identical
 	
-### Collation PDFs
-This folder also contains the collation of _Aphra Behn. Roman_ (Berlin: M. Simion, 1849) and _Karl der Zweite und sein Hof. Historischer Roman_ (Berlin: Otto Janke, 1859) in five PDFs generated by the digital tool Locate, Explore, Retrace and Apprehend complex text variants, or [LERA](https://lera.uzi.uni-halle.de/). There is one PDF for each volume except the second which, being larger, slowed down the tool too much. The text file of the second volume was thus split into three parts.
+> [!NOTE]
+> All three book titles are identical.
 
+### Collation PDFs
+The next seven columns pertain to the accompanying collation of _Aphra Behn. Roman_ (Berlin: M. Simion, 1849) and _Karl der Zweite und sein Hof. Historischer Roman_ (Berlin: Otto Janke, 1859). 
+
+Indeed, this directory also contains five PDFs generated by the digital tool Locate, Explore, Retrace and Apprehend complex text variants, or [LERA](https://lera.uzi.uni-halle.de/). There is one PDF for each volume except the second which, being larger, slowed LERA down too much. The text file of the second volume was thus split into three parts.
+
+> [!NOTE]
 In the column names below, `*` represents `1`, `2-1`, `2-2`, `2-3`, or `3`, depending on the PDF containing the chapter as indicated in column `Filename` (`vol_1`, `vol_2_part_1`, `vol_2_part_2`, `vol_2_part_3`, or `vol_3`).
 
-`Filename`	Filename of the PDF containing the chapter
+`Filename`	Filename of the PDF containing the book title or chapter
 
-`ABb*e1744 segment no for numbering`  Number of the segment (as indicated on the left-hand side of the collation PDF) in which each book and chapter's numbering appears in the copy identified as ABb*e1744, first column of text in the file specified in the field "Filename"
+`ABb*e1744_segment_no_for_numbering`  Number of the segment (as indicated on the left-hand side of the collation PDF) in which each book and chapter's numbering appears in the copy identified as ABb*e1744, first column of text in the file specified in the column "Filename"
 
-`ABb*e1744 segment no for title`  Number of the segment (as indicated on the left-hand side of the collation PDF) in which each book and chapter's title appears in the copy identified as ABb*e1744, first column of text in the file specified in the field "Filename"
+`ABb*e1744_segment_no_for_title`  Number of the segment (as indicated on the left-hand side of the collation PDF) in which each book and chapter's title appears in the copy identified as ABb*e1744, first column of text in the file specified in the column "Filename"
 
-`ABb*e958 segment no for numbering`  Number of the segment (as indicated on the left-hand side of the collation PDF) in which each book and chapter's numbering appears in the copy identified as ABb*e958, second column of text in the file specified in the field "Filename"
+`ABb*e958_segment_no_for_numbering`  Number of the segment (as indicated on the left-hand side of the collation PDF) in which each book and chapter's numbering appears in the copy identified as ABb*e958, second column of text in the file specified in the column "Filename"
 
-`ABb*e958 segment no for title`  Number of the segment (as indicated on the left-hand side of the collation PDF) in which each book and chapter's title appears in the copy identified as ABb*e958, second column of text in the file specified in the field "Filename"
+`ABb*e958_segment_no_for_title`  Number of the segment (as indicated on the left-hand side of the collation PDF) in which each book and chapter's title appears in the copy identified as ABb*e958, second column of text in the file specified in the column "Filename"
 
-`KZHb* segment no for numbering`  Number of the segment (as indicated on the left-hand side of the collation PDF) in which each book and chapter's numbering appears in the copy identified as KZHb*, third and last column of text in the file specified in the field "Filename"
+`KZHb*_segment_no_for_numbering`  Number of the segment (as indicated on the left-hand side of the collation PDF) in which each book and chapter's numbering appears in the copy identified as KZHb*, third and last column of text in the file specified in the column "Filename"
 
-`KZHb* segment no for title`  Number of the segment (as indicated on the left-hand side of the collation PDF) in which each book and chapter's title appears in the copy identified as KZHb1, third and last column of text in the file specified in the field "Filename"
+`KZHb*_segment_no_for_title`  Number of the segment (as indicated on the left-hand side of the collation PDF) in which each book and chapter's title appears in the copy identified as KZHb1, third and last column of text in the file specified in the column "Filename"
 
 > [!WARNING]
-> In three cases, "missing from OCR" indicates that the chapter number was not transcribed during optical character recognition.
+> In three cases, "missing from OCR" indicates that the chapter number was not transcribed during the optical character recognition.
 > 
-> The fields `KZHb* segment no for numbering` and `KZHb* segment no for title` at the row identified as 3:2 are empty because chapter II in the first edition's third book was cut from the revised second edition.
+> The columns `KZHb*_segment_no_for_numbering` and `KZHb*_segment_no_for_title` at the row identified as 3:2 are empty because chapter II in the first edition's third book was cut from the revised second edition.
 > 
-> The data in the fields `ABb*e1744 segment no for numbering`, `ABb*e1744 segment no for title`, `ABb*e958 segment no for numbering`, and `ABb*e958 segment no for title` is identical for rows 3:4 and 3:5 because chapter IV in the first edition's third book was split in two in the revised second edition.
+> The data in the columns `ABb*e1744_segment_no_for_numbering`, `ABb*e1744_segment_no_for_title`, `ABb*e958_segment_no_for_numbering`, and `ABb*e958_segment_no_for_title` is identical for rows 3:4 and 3:5 because chapter IV in the first edition's third book was split in two in the revised second edition.
 
 ### Our title translations
-`AB 1849 Title translation`	English-language translation of the book and chapter titles in the first edition
+The last two columns contain our English-language translations of the titles.
 
-`KZH 1859 Title translation`	English-language translation of the book and chapter titles in the revised second edition
+`AB_1849_Title_translation`	English-language translation of the book and chapter titles in the first edition
+
+`KZH_1859_Title_translation`	English-language translation of the book and chapter titles in the revised second edition
