@@ -6,7 +6,7 @@ This repository contains three datasets about works by German historical novelis
 The three datasets are:
 
 1. `AB_KZH` Collation of _Aphra Behn_ (1849) and _Karl der Zweite und sein Hof_ (1859), two different editions of the same work by Luise Mühlbach — Marie Léger-St-Jean and Sophie van den Elzen, August 2026
-2. `7_works` Bibliographic information about the seven works by Luise Mühlbach that Otto Janke reissued under new titles from 1857 to 1860, with translations and lending libraries holdings — Marie Léger-St-Jean, September 2026
+2. `7_works` Bibliographic information about the seven works by Luise Mühlbach that Otto Janke reissued under new titles from 1857 to 1860, with translations and lending libraries holdings — Marie Léger-St-Jean, October 2026
 3. `1860_ZuA` Collation of the first volume of each of the three "_Zweite umgearbeitete Ausgabe_" published by Otto Janke in 1860 — Marie Léger-St-Jean and Sophie van den Elzen, June 2026
 
 It might in the future include the checklist of all of Luise Mühlbach's works broken down into individual volumes compiled by Marie Léger-St-Jean. It is based on incomplete bibliographies with links to digital surrogates available on the German-language [Wikisource](https://de.wikisource.org/wiki/Luise_M%C3%BChlbach) and [Wikipedia](https://de.wikipedia.org/wiki/Luise_M%C3%BChlbach) pages for the author. It requires more checking and data cleaning before it can be published.
