@@ -22,7 +22,8 @@ Janke thus described on their title pages the same subset of three works with ha
 
 Marie collated the first volumes of all three works using the digital tool Locate, Explore, Retrace and Apprehend complex text variants, or [LERA](https://lera.uzi.uni-halle.de/), developed by Marcus Pöckelmann and his colleagues, to ensure that she had not missed any other differences early in the text. Sophie, who had close read the collation of _Aphra Behn_ (1849) and _Karl der Zweite und sein Hof_ (1859), skimmed through the new collations and confirmed that little had been revised in comparison.
 
-Marie appended front matter to each PDF exported from LERA to describe the detailed methodology.
-
 ## Initial findings
 We infer that the precise wording of publisher Otto Janke’s edition statements on the title pages of his second, revised editions indicates the latter’s level of reworking.
+
+## Detailed methodology
+Marie appended front matter to each PDF exported from LERA to describe the detailed methodology.
